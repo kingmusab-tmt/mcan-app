@@ -1,0 +1,42 @@
+.footerimg{
+    width: 80%;
+    height: 80%;
+}
+.mycontainer{
+    margin-top: 2px ;
+}
+.myinfo{
+    padding-top: 10px;
+    color: white;
+    font-weight: 500;
+}
+.myinfo a{
+    color: white;
+}
+.mycontent{
+    align-items: center;
+    text-align: center;
+}
+.mycontent li{
+    font-size: 30px;
+}
+.mycolor{
+    background: rgb(203, 241, 203);
+    width: 100%;
+    margin: 0 auto;
+}
+h4{
+    color: green;
+    font-weight: 600;
+}
+.list-unstyled li a{
+    color: green;
+    font-weight: 800;
+}
+@media screen and (max-width: 480px)  {
+    .footerimg{
+        width: 30%;
+        height: 30%;
+    }
+    
+}
