@@ -39,7 +39,7 @@
 }
 @media screen and (max-width: 480px) {
     .hero-image h1{
-    font-weight: 600;
-    font-size: 30px;    
+    font-weight: 500;
+    font-size: 25px;    
 }
 }
