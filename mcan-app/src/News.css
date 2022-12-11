@@ -66,3 +66,16 @@
       transform: translateX(-200%);
     }
   }
+  @media screen and (max-width: 480px) {
+    .scroll div {
+      font-weight: 900;
+      font-size: 1em;
+      text-transform: uppercase;
+      white-space: nowrap;
+      color: #212121;
+      background-color: rgb(71, 197, 12);
+      animation: animate 40s -40s linear infinite;
+      will-change: transform;
+    }
+  
+}

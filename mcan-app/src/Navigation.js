@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from './mcan.png'
+import Logo from './images/mcan.png'
 import './Navigation.css'
 
 function Navigation() {
@@ -38,7 +38,7 @@ function Navigation() {
       </ul>
     </div>
     <form class="d-flex">
-        <button className="btn btn-danger" type="button">Donate</button>
+        <a href='#donatenow' ><button className="btn btn-danger" type="button">Donate Now</button></a>
       </form>
   </div>
 </nav>

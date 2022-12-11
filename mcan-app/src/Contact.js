@@ -5,7 +5,7 @@ function Contact() {
   return (
     <div className="container-fluid" id="contact">
     <h3 className='text-center contact'><span>Contact Us</span></h3>
-    <form action="mailto:triplemultipurposetechnology@gmail.com" method="POST" enctype="multipart/form-data" name="EmailForm">
+    <form action="mailto:mcanebonyi@gmail.com" method="POST" enctype="multipart/form-data" name="EmailForm">
 
         <label for="fname">First Name</label>
         <input type="text" id="fname" name="firstname" placeholder="Your name.." />
