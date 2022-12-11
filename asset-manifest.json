@@ -1,27 +1,37 @@
 {
   "files": {
-    "main.css": "/mcan-app/static/css/main.f6724d0a.css",
-    "main.js": "/mcan-app/static/js/main.16a8b0e0.js",
+    "main.css": "/mcan-app/static/css/main.a5bfe12d.css",
+    "main.js": "/mcan-app/static/js/main.69961445.js",
     "static/js/787.e5063ac9.chunk.js": "/mcan-app/static/js/787.e5063ac9.chunk.js",
-    "static/media/3.jpg": "/mcan-app/static/media/3.360c8cfc57773b5b7498.jpg",
+    "static/media/mcan-back.jpg": "/mcan-app/static/media/mcan-back.a7463f9ff10d6f24cca0.jpg",
+    "static/media/islamiya.PNG": "/mcan-app/static/media/islamiya.6c90e0c22383fb5d8ea0.PNG",
+    "static/media/mcanlodge2.PNG": "/mcan-app/static/media/mcanlodge2.5f25118246a3c0678b77.PNG",
+    "static/media/comdawah.jpeg": "/mcan-app/static/media/comdawah.eda11425adbde31f655a.jpeg",
     "static/media/mcan.png": "/mcan-app/static/media/mcan.269257ac3fcc7cf8964c.png",
     "static/media/lawal.jpg": "/mcan-app/static/media/lawal.5f849d3c482ebe0a30ff.jpg",
     "static/media/d1.jpg": "/mcan-app/static/media/d1.f4fff01f735c8498148e.jpg",
-    "static/media/d3.jpg": "/mcan-app/static/media/d3.47c3f09324786c60ff84.jpg",
-    "static/media/d2.jpg": "/mcan-app/static/media/d2.428f81fdeffe43e11757.jpg",
+    "static/media/ismail.jpeg": "/mcan-app/static/media/ismail.c9c15d0642b03da3d732.jpeg",
+    "static/media/presentation.jpeg": "/mcan-app/static/media/presentation.ad052cecad7000d8944d.jpeg",
     "static/media/bootstrap-icons.woff?": "/mcan-app/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
     "static/media/bootstrap-icons.woff2?": "/mcan-app/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/schoolpro.jpeg": "/mcan-app/static/media/schoolpro.b24e9c4eb49c95f2131e.jpeg",
+    "static/media/MRADEJUWON.jpeg": "/mcan-app/static/media/MRADEJUWON.698e752cac0c01d95d10.jpeg",
+    "static/media/EIDCELEBRATION.jpeg": "/mcan-app/static/media/EIDCELEBRATION.29ad27b35936b05f4afb.jpeg",
+    "static/media/outgoing.jpeg": "/mcan-app/static/media/outgoing.bec6c8f5d88f2e48854d.jpeg",
     "static/media/nysc.png": "/mcan-app/static/media/nysc.ab2c9f054ac315542a46.png",
-    "static/media/1.jpg": "/mcan-app/static/media/1.37348ad38ad73968fd5a.jpg",
-    "static/media/4.jpg": "/mcan-app/static/media/4.b00a91fe8d48b9291471.jpg",
+    "static/media/avatarmale.png": "/mcan-app/static/media/avatarmale.5316ef7da7d35051f372.png",
+    "static/media/hamzat.jpeg": "/mcan-app/static/media/hamzat.efe87daab1e6246bd5a8.jpeg",
+    "static/media/bello.jpeg": "/mcan-app/static/media/bello.efaa03e6c256c441f720.jpeg",
+    "static/media/fatima.jpeg": "/mcan-app/static/media/fatima.b3b20622db1f4107461e.jpeg",
     "static/media/musab.jpg": "/mcan-app/static/media/musab.4fa09fd87f0fb10a2ffc.jpg",
+    "static/media/ameera.jpg": "/mcan-app/static/media/ameera.9cfd2fc6d267b4b82b47.jpg",
     "index.html": "/mcan-app/index.html",
-    "main.f6724d0a.css.map": "/mcan-app/static/css/main.f6724d0a.css.map",
-    "main.16a8b0e0.js.map": "/mcan-app/static/js/main.16a8b0e0.js.map",
+    "main.a5bfe12d.css.map": "/mcan-app/static/css/main.a5bfe12d.css.map",
+    "main.69961445.js.map": "/mcan-app/static/js/main.69961445.js.map",
     "787.e5063ac9.chunk.js.map": "/mcan-app/static/js/787.e5063ac9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6724d0a.css",
-    "static/js/main.16a8b0e0.js"
+    "static/css/main.a5bfe12d.css",
+    "static/js/main.69961445.js"
   ]
 }
