@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mcan-app/static/css/main.a5bfe12d.css",
-    "main.js": "/mcan-app/static/js/main.69961445.js",
+    "main.css": "/mcan-app/static/css/main.c6c330b7.css",
+    "main.js": "/mcan-app/static/js/main.93dad1d4.js",
     "static/js/787.e5063ac9.chunk.js": "/mcan-app/static/js/787.e5063ac9.chunk.js",
     "static/media/mcan-back.jpg": "/mcan-app/static/media/mcan-back.a7463f9ff10d6f24cca0.jpg",
     "static/media/islamiya.PNG": "/mcan-app/static/media/islamiya.6c90e0c22383fb5d8ea0.PNG",
@@ -25,13 +25,14 @@
     "static/media/fatima.jpeg": "/mcan-app/static/media/fatima.b3b20622db1f4107461e.jpeg",
     "static/media/musab.jpg": "/mcan-app/static/media/musab.4fa09fd87f0fb10a2ffc.jpg",
     "static/media/ameera.jpg": "/mcan-app/static/media/ameera.9cfd2fc6d267b4b82b47.jpg",
+    "static/media/MCAN_PAST_EXECUTIVES.csv": "/mcan-app/static/media/MCAN_PAST_EXECUTIVES.d6909509ea3fe0755d49.csv",
     "index.html": "/mcan-app/index.html",
-    "main.a5bfe12d.css.map": "/mcan-app/static/css/main.a5bfe12d.css.map",
-    "main.69961445.js.map": "/mcan-app/static/js/main.69961445.js.map",
+    "main.c6c330b7.css.map": "/mcan-app/static/css/main.c6c330b7.css.map",
+    "main.93dad1d4.js.map": "/mcan-app/static/js/main.93dad1d4.js.map",
     "787.e5063ac9.chunk.js.map": "/mcan-app/static/js/787.e5063ac9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5bfe12d.css",
-    "static/js/main.69961445.js"
+    "static/css/main.c6c330b7.css",
+    "static/js/main.93dad1d4.js"
   ]
 }
