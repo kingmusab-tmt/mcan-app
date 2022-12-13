@@ -1,29 +1,29 @@
 import './App.css';
-import Footer from './Footer';
-import Header from './Header';
 import Navigation from './Navigation';
-import Aboutus from './Aboutus';
-import Contact from './Contact';
-import Dawaah from './Dawaah';
-import News from './News';
-import Executives from './Executives';
+import Footer from './Footer';
+import Original from './Original';
+import Home from './Home';
 import Donate from './Donate';
+import {BrowserRouter as Router, Routes, Route} from "react-router-dom"
 // import BackgroundImage from './mcan-back.jpg'
 
-function App() {
+
+
+ function App() {
+
   return (
+    //BEM
+    <Router>
     <div className="App container-fluid">
-      <Navigation />
-      <Header />
-      <News />
-      <Aboutus />
-      <Dawaah />
-      <Executives />
-      <Donate />
-      <Contact />
-      <Footer /> 
-    </div>
-    
+    <Navigation />
+    <Routes>
+    {['/', 'mcan-app'].map(path => <Route path={path} element={<Home />} />)}
+      <Route path="/past_excutives" element={<Original />} />
+    </Routes> 
+    <Donate />
+    <Footer />
+     </div>
+    </Router>
   );
 }
 

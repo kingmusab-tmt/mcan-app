@@ -1,0 +1,7 @@
+.mytable{
+    overflow-x:auto;
+    margin-top: 30px;
+}
+th{
+    height: 80px;
+}
